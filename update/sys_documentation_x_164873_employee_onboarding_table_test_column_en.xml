@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_column" label="test column" language="en" table="x_164873_employee_onboarding_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_column</element>
+            <help/>
+            <hint/>
+            <label>test column</label>
+            <language>en</language>
+            <name>x_164873_employee_onboarding_table</name>
+            <plural>test columns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 21:02:21</sys_created_on>
+            <sys_id>447226b7dba60010b88561ca0b9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test column</sys_name>
+            <sys_package display_value="Employee onboarding" source="x_164873_employee">4d3dec5fdb110010b88561ca0b961920</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee onboarding">4d3dec5fdb110010b88561ca0b961920</sys_scope>
+            <sys_update_name>sys_documentation_x_164873_employee_onboarding_table_test_column_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 21:02:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
