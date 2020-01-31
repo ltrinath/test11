@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Employee Onboarding Table" language="en" table="x_164873_employee_onboarding_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Employee Onboarding Table</label>
+            <language>en</language>
+            <name>x_164873_employee_onboarding_table</name>
+            <plural>Employee Onboarding Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-28 19:54:43</sys_created_on>
+            <sys_id>6d3de49fdb110010b88561ca0b961981</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Employee Onboarding Table</sys_name>
+            <sys_package display_value="Employee onboarding" source="x_164873_employee">4d3dec5fdb110010b88561ca0b961920</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee onboarding">4d3dec5fdb110010b88561ca0b961920</sys_scope>
+            <sys_update_name>sys_documentation_x_164873_employee_onboarding_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-28 19:54:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

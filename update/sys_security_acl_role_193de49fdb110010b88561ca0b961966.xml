@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-28 19:54:43</sys_created_on>
+        <sys_id>193de49fdb110010b88561ca0b961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_164873_employee_onboarding_table.x_164873_employee.user</sys_name>
+        <sys_package display_value="Employee onboarding" source="x_164873_employee">4d3dec5fdb110010b88561ca0b961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee onboarding">4d3dec5fdb110010b88561ca0b961920</sys_scope>
+        <sys_security_acl display_value="x_164873_employee_onboarding_table">953de49fdb110010b88561ca0b961963</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_193de49fdb110010b88561ca0b961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-28 19:54:43</sys_updated_on>
+        <sys_user_role display_value="x_164873_employee.user" name="x_164873_employee.user">993de49fdb110010b88561ca0b961945</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

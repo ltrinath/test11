@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_164873_employee.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-28 19:54:42</sys_created_on>
+        <sys_id>993de49fdb110010b88561ca0b961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_164873_employee.user</sys_name>
+        <sys_package display_value="Employee onboarding" source="x_164873_employee">4d3dec5fdb110010b88561ca0b961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee onboarding">4d3dec5fdb110010b88561ca0b961920</sys_scope>
+        <sys_update_name>sys_user_role_993de49fdb110010b88561ca0b961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-28 19:54:42</sys_updated_on>
+    </sys_user_role>
+</record_update>
